@@ -1,0 +1,17 @@
+Parte 2:Viaje por los planetas.
+
+El principito decide dejar su planeta y a su rosa, buscando comprender el universo. En su viaje visita varios asteroides donde conoce a personajes muy extraños:
+
+Un rey que quiere gobernarlo todo.
+
+Un vanidoso que solo quiere ser admirado.
+
+Un borracho que bebe para olvidar que bebe.
+
+Un hombre de negocios que solo cuenta estrellas.
+
+Un farolero que enciende y apaga su farol sin sentido.
+
+Un geógrafo que no explora, solo escribe mapas.
+
+Cada uno representa una for
